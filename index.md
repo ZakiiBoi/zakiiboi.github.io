@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my website
+It is currently under development and I hope to launch it in the new year in 2021. I am using GitHub Pages temporarily in the meantime until the site launches.
 
-You can use the [editor on GitHub](https://github.com/ZakiiBoi/zakiiboi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
